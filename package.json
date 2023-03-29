@@ -1,0 +1,26 @@
+{
+  "name": "cli-1",
+  "version": "1.0.0",
+  "description": "CLI App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniyavolfman/CLI-1.git"
+  },
+  "author": "Anna Volfman <aniya_07@ukr.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniyavolfman/CLI-1/issues"
+  },
+  "homepage": "https://github.com/aniyavolfman/CLI-1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "nanoid": "^2.1.11"
+  }
+}
